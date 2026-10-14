@@ -1,0 +1,9 @@
+{
+  "crossover_s": 46.0,
+  "reach_0_9_s": 76.0,
+  "rate_peak_after_switch": 7.800000000000001,
+  "rate_last_30s": 3.4,
+  "r_new_final": 0.987559686193053,
+  "r_old_final": -0.44073298753878903,
+  "r_old_before_switch": 0.9887034505357687
+}
